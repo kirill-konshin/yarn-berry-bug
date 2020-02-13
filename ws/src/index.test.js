@@ -1,0 +1,1 @@
+const {hashRouter} = require('react-router');
